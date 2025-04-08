@@ -18,12 +18,17 @@
 
 /* CELULAR */
 @media screen and (max-width: 750px) {
+
+    header {
+        width: 424px;
+    }
+
     header nav .nav-list li {
         display: none;
     }
 
     header nav .nav-list .img-logo {
-        margin-right: 30%;
+        margin-right: 50%;
     }
 
     /* MENU RESPONSIVEL */
@@ -41,7 +46,7 @@
 
     .container-menu {
         position: fixed;
-        width: 100%;
+        width: 424px;
         top: 0;
         left: 0;
         z-index: 999;
