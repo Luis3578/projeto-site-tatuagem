@@ -629,7 +629,6 @@ footer>p {
     font-family: var(--font-padrao);
     text-decoration: none;
     font-size: .90rem;
-    display: block;
 }
 
 .whats>a>i {

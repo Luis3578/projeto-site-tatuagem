@@ -19,10 +19,6 @@
 /* CELULAR */
 @media screen and (max-width: 750px) {
 
-    header {
-        width: 424px;
-    }
-
     header nav .nav-list li {
         display: none;
     }
@@ -46,7 +42,7 @@
 
     .container-menu {
         position: fixed;
-        width: 424px;
+        width: 100%;
         top: 0;
         left: 0;
         z-index: 999;
