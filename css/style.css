@@ -615,13 +615,12 @@ footer>p {
 
 .whats {
     background-color: var(--cor06_whats);
-    width: 400px;
     border-radius: 20px;
     position: fixed;
-    width: 220px;
+    width: 185px;
     bottom: 7px;
     padding: 3px;
-    right: 10px;
+    right: 30px;
     text-align: center;
 }
 

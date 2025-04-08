@@ -282,6 +282,11 @@
     footer .forma-pagamento-responsivel .img-pagamento-responsivel>img:not(:last-child) {
         margin-right: 10px;
     }
+
+    .whats {
+        left: 200px;
+        width: 180px;
+    }
 }
 
 /* TABLET */
