@@ -19,13 +19,19 @@
 /* CELULAR */
 @media screen and (max-width: 750px) {
 
+    header{
+        position: fixed;
+        top: 0;
+        right: 0;
+    }
+
     header nav .nav-list li {
         display: none;
     }
 
-    header nav .nav-list .img-logo {
+    /* header nav .nav-list .img-logo {
         margin-right: 50%;
-    }
+    } */
 
     /* MENU RESPONSIVEL */
     header nav .nav-list .abrir-menu {
